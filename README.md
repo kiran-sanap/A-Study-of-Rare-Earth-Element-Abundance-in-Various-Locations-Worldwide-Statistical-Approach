@@ -1,10 +1,10 @@
 # A-Study-of-Rare-Earth-Element-Abundance-in-Various-Locations-Worldwide-Statistical-Approach
-Problem Statement:
+**Problem Statement:**
 
 Rare Earth Elements (REEs) are critical for clean energy technologies, electronics, and strategic industries. Despite their importance, REE distributions vary significantly across geological settings and rock types. Traditional univariate analysis often fails to capture the complex, multivariate nature of REE geochemistry. This project addresses the need for a robust statistical framework to analyze REE abundance, variation, and relationships across multiple global locations.
 
 
-Objectives:
+**Objectives:**
 
 a. To study the abundance and distribution of REEs across different geological locations and rock types
 
@@ -17,7 +17,7 @@ d. To determine key elements influencing REE enrichment using regularized regres
 e. To assess statistically significant differences between rock groups using ANOVA and high-dimensional tests
 
 
-Tools & Technologies:
+**Tools & Technologies:**
 
 Programming & Analysis: Python
 
@@ -26,7 +26,7 @@ Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy
 Statistical Techniques: Descriptive statistics, Skewness & kurtosis analysis, Missing value imputation (Median), Log transformation, Hierarchical & K-Means clustering, Cluster profiling & heatmaps, Elastic Net regression, ANOVA & High-Dimensional Hotelling’s T²
 
 
-Data Source:
+**Data Source:**
 
 The study uses published geochemical datasets from internationally recognized research sources:
 
@@ -39,7 +39,7 @@ The study uses published geochemical datasets from internationally recognized re
 Primary references include peer-reviewed journal articles on REE-rich carbonatite complexes.
 
 
-Methodology / Workflow:
+**Methodology / Workflow:**
 
 a. Data Collection & Understanding: Compiled REE concentration data across multiple rock types and locations
 
@@ -56,7 +56,7 @@ f. Regression Modeling: Applied Elastic Net regression to handle multicollineari
 g. Statistical Testing: Used ANOVA and high-dimensional tests to confirm significant group differences where classical ANOVA fails (p > n cases)
 
 
-Key Insights:
+**Key Insights:**
 
 - Carbonatites show strong LREE enrichment, confirming them as primary REE sources
 
@@ -71,7 +71,7 @@ Key Insights:
 - Clustering consistently separates enriched, moderate, and depleted REE populations across regions
 
 
-Conclusion:
+**Conclusion:**
 
 Bayan Obo shows the clearest geochemical separation, with carbonatites and fenites forming distinct REE populations, confirming a two-stage magmatic–hydrothermal evolution.
 
@@ -93,4 +93,4 @@ Each region reflects distinct enrichment mechanisms:
 
 The analyzed REEs have critical applications in EV batteries, permanent magnets (Nd–Pr, Sm–Co), wind turbines, clean energy technologies, lasers, phosphors, fiber optics, and advanced materials.
 
-Author: Kiran Sanap
+**Author: Kiran Sanap**
