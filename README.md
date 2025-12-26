@@ -30,11 +30,11 @@ Data Source:
 
 The study uses published geochemical datasets from internationally recognized research sources:
 
-a. Bayan Obo, China – World’s largest REE deposit
+- Bayan Obo, China – World’s largest REE deposit
 
-b. Belaya Zima, Russia – Multi-phase carbonatite complex
+- Belaya Zima, Russia – Multi-phase carbonatite complex
 
-c. Fen Complex, Norway – Carbonatite and hydrothermal alteration system
+- Fen Complex, Norway – Carbonatite and hydrothermal alteration system
 
 Primary references include peer-reviewed journal articles on REE-rich carbonatite complexes.
 
@@ -73,9 +73,24 @@ Key Insights:
 
 Conclusion:
 
-This study demonstrates clear geochemical differentiation of REE systems across global carbonatite complexes. Bayan Obo shows the strongest separation between carbonatites and fenites, confirming a two-stage magmatic–hydrothermal evolution. Belaya Zima exhibits the highest heterogeneity with extreme variability, reflecting complex multi-phase magmatism, while the Fen Complex displays the most coherent magmatic signature with smooth LREE enrichment and strong multivariate model performance.
+Bayan Obo shows the clearest geochemical separation, with carbonatites and fenites forming distinct REE populations, confirming a two-stage magmatic–hydrothermal evolution.
 
-Across all regions, La and Ce consistently emerge as the most reliable REE indicators, supported by clustering, heatmaps, and Elastic Net regression. REE enrichment is dominated by LREE–MREE control, with weak and inconsistent HREE contributions, indicating low-pressure melting, amphibole involvement, and limited garnet retention. These findings highlight region-specific enrichment mechanisms and reinforce the relevance of REEs in strategic applications such as EV batteries, permanent magnets, clean energy, optics, and advanced materials.
+- Belaya Zima is the most heterogeneous region, exhibiting extreme variability and strong skewness/kurtosis due to multi-phase carbonatite magmatism.
 
+- Fen Complex displays the most coherent magmatic signature, characterized by smooth LREE enrichment and strong multivariate regression performance.
+
+- Across all regions, La and Ce consistently emerge as the most reliable REE indicators, supported by clustering, heatmaps, and Elastic Net regression.
+
+- REE enrichment is dominated by LREE–MREE control, while HREEs show weak and inconsistent contributions, indicating low-pressure melting, amphibole involvement, and limited garnet retention.
+
+Each region reflects distinct enrichment mechanisms:
+
+- Bayan Obo: Magmatic enrichment with metasomatic overprint
+
+- Belaya Zima: Highly heterogeneous, multi-phase magmatic processes
+
+- Fen: Coherent magmatic enrichment with mild fractionation
+
+The analyzed REEs have critical applications in EV batteries, permanent magnets (Nd–Pr, Sm–Co), wind turbines, clean energy technologies, lasers, phosphors, fiber optics, and advanced materials.
 
 Author: Kiran Sanap
