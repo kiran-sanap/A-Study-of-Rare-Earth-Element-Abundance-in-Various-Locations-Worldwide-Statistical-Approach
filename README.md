@@ -1,9 +1,9 @@
 # A-Study-of-Rare-Earth-Element-Abundance-in-Various-Locations-Worldwide-Statistical-Approach
-1) Problem Statement
+Problem Statement
 
 Rare Earth Elements (REEs) are critical for clean energy technologies, electronics, and strategic industries. Despite their importance, REE distributions vary significantly across geological settings and rock types. Traditional univariate analysis often fails to capture the complex, multivariate nature of REE geochemistry. This project addresses the need for a robust statistical framework to analyze REE abundance, variation, and relationships across multiple global locations.
 
-2) Objectives
+Objectives
 
 a. To study the abundance and distribution of REEs across different geological locations and rock types
 
